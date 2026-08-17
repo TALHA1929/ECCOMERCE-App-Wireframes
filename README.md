@@ -7,11 +7,6 @@ tool ka use karke.
 ## Tools Used
 - Figma
 
-## User Persona
-**Name:** Sara Ahmed, 22 year, University Student  
-**Goal:** Searching Affordable products online  , fast checkout , easy cart system  
-**Pain Point:**  preventaion from lenghty chechout
-
 ## User Flow
 Splash Screen → Login/Signup → Home Dashboard → Search/Filters 
 → Product Listing → Product Detail → Cart → Checkout → 
